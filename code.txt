@@ -6,3 +6,7 @@ Added code with vim and yes! I know how to get out of it!
 {
 Code 2
 }
+
+{
+Code 3
+}
